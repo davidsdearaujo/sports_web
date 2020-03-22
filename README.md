@@ -1,6 +1,10 @@
-# first_web
+# Sports Web
 
-A new Flutter project.
+## Desafio proposto pela equipe Flutterando, através do canal do telegram https://t.me/flutterando_desafios
+
+![image](https://user-images.githubusercontent.com/16373553/77244591-2deeb680-6bf5-11ea-8563-c1c48d84b016.png)
+
+![snapshot](https://user-images.githubusercontent.com/16373553/77244674-693db500-6bf6-11ea-8ca9-b437bb00ad4e.gif)
 
 ## Getting Started
 
